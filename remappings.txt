@@ -1,0 +1,9 @@
+ds-test/=lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+forge-std/=lib/forge-std/src/
+@openzeppelin/=lib/openzeppelin-contracts/contracts/
+solady/=lib/solady/src/
+uni-v3-core/=lib/v3-core/contracts
+uni-v4-core/=lib/v4-core/src/
+uni-v4-periphery/=lib/v4-periphery/src/
+uni-v2-core/=lib/v2-core/contracts/
